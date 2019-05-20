@@ -1,0 +1,3 @@
+https://elifesciences.org/articles/08932
+Codon-level information improves predictions of inter-residue contacts in proteins by correlated mutation analysis
+The correlated mutation on Amino Acid level may be more functional if the codon level mutation is not correlated
